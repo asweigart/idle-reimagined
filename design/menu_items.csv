@@ -1,0 +1,89 @@
+Original,Extraneous,Menu Item,Hotkey,Description
+,,FILE,,
+x,,New File,Ctrl+N,Opens a file editor in a new tab
+x,,Open File…,Ctrl+O,Opens one file. (Is opening multiple files possible?)
+,,Open Recent >,,
+,,> (previously opened files),,A list of recently opened files that can be selected.
+,,> Reopen Closed File,Ctrl+Shift+T,Open the most recently closed file.
+x,,Open Module…,Alt+M,Open an existing module (searches sys.path)
+x,,Class Browser,Alt+C,Show classes and methods in current file
+x,,Path Browser,,"Show sys.path directories, modules, classes and methods."
+,,________,,
+x,,Save,Ctrl+S,Save current tab.
+x,,Save As…,,Save current tab with a different name.
+,,Save All,,Save all tabs.
+,,________,,
+,,Restart Shell,,Restart the shell to clean the environment.
+x,,Run,F5,Restart the shell and run the currently focused module. Prompt user to save if it is modified.
+,,________,,
+,,New Window,Ctrl+Shift+N,Create a new IDLE window. This is the same as running the program again.
+,,________,,
+x,,Print,Ctrl+P,Print the current tab to the default printer.
+,,________,,
+x,,Close File,Ctrl+W,Close the current tab.
+,,Close All Files,,Close all tabs.
+x,,Exit,,Close all tabs and close the window.
+,,,,
+,,,,
+,,EDIT,,
+x,,Undo,Ctrl+Z,Undo last change to current tab.
+x,,Redo,Ctrl+Shift+Z,Redo last undone change to current tab.
+,,________,,
+x,,Copy,Ctrl+C,Copy selection into system-wide clipboard.
+x,,Cut,Ctrl+X,"Copy selection, than delete it."
+x,,Paste,Ctrl+V,Insert system-wide clipboard into window.
+x,,Select All,Ctrl+A,Select the entire contents of the current tab.
+,,________,,
+,,Next File,Ctrl+Pagedown,Switch to the next adjacent tab.
+,,Previous File,Ctrl+Pageup,Switch to the previous adjacent tab.
+,,Next File in Stack,Ctrl+Tab,Switch to the next tab that was in focus.
+,,Previous File in Stack,Ctrl+Shift+Tab,Switch to the last tab that was in focus.
+,,Scroll Up a Line,Ctrl+Up,Scroll up the current tab by a line without moving the cursor.
+,,Scroll Down a Line,Ctrl+Down,Scroll down the current tab by a line without moving the cursor.
+,,,,
+,,,,
+,,FIND,,
+x,,Find…,Ctrl+F2,Open a search dialog box with many options with search in focus.
+,,Find Next,F3,Repeat last search.
+,,Find Previous,Shift+F3,Repeat last search in up direction.
+x,,Find Selection,Ctrl+F3,Search for the string in the selection.
+x,,Find in Files…,Alt+F3,Open a search dialog box for searching in files.
+x,,Replace…,Ctrl+H,Open a search/replace dialog with replace in focus.
+,,________,,
+,,Select Line,Ctrl+L,Select the current line.
+,,Select Word,Ctrl+D,Select the current word.
+,,Select Paragraph,,Select the current paragraph.
+x,,Go to Line,Alt+G,Prompt for a line numbr to move cursor to.
+x,,Expand Word,Alt+/,Expand the word you have typed to match another word in the same buffer; repeat to get a different expansion.
+x,,Show Call Tip,Ctrl+backslash,Open a small window with function param hints
+x,,Show Surrounding Parens,Ctrl+O,Highlight the surrounding parenthesis
+x,,Show Completions,Ctrl+space,Open a scroll window allowing selection keywords and attributes.
+,,________,,
+,x,Toggle Bookmark,Ctrl+F2,Add/remove bookmark on the current line.
+,x,Next Bookmark,F2,Scroll to next bookmark.
+,x,Prev Bookmark,Shift+F2,Scroll to previous bookmark.
+,x,Clear All Bookmarks,Ctrl+Shift+F2,Erase all bookmarks in the current file.
+,,,,
+,,,,
+,,FORMAT,,
+x,,Indent Region,Ctrl+],Indent all selected lines by the current indentation setting. (Also doable by selecting multiple lines and pressing Tab.)
+x,,Dedent Region,Ctrl+[,Dedent all selected lines by the current indentation setting. (Also doable by selecting multiple lines and pressing Shift+Tab.)
+x,,Comment Out Region,Alt+3,Add ## to the very start of the selected/current line(s). (Also doable by selecting multiple lines and pressing #.)
+x,,Uncomment Region,Alt+4,Remove # or ## from only the very start of the selected/current lines (if they're there.) (Also doable by selecting multiple lines and pressing Shift+#.)
+x,,Tabify Region,Alt+5,Turns leading stretches of spaces into tabs (by current tab setting).
+x,,Untabify Region,Alt+6,
+x,,Strip trailing whitespace,,Removes any space characters after the end of the last non-space character.
+,,,,
+,,,,
+,,OPTIONS,,
+,,Configure IDLE,,Open the configuration dialog.
+,,Color Scheme,,Select one of the pre-made color schemes.
+,,Enlarge Font,,Increase font size by 10% of original size
+,,Shrink Font,,Decrease font size by 10% of original size
+,,Reset Font,,Reset font size back to 100%
+,,,,
+,,,,
+,,HELP,,
+,,IDLE Help,,"Display offline help file for IDLE detailing the menu options, basic editing and navigation, and other tips."
+,,Python Docs,F1,"Access local Python documentation, if installed.  Or will start a web browser and open docs.python.org showing the latest Python documentation."
+,,About IDLE,,"Version, copyright, license, credits."
