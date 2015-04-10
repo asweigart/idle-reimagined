@@ -1,0 +1,1193 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IDLELIB 3.5.0.1\n"
+"POT-Creation-Date: 2015-01-14 11:22+Russia TZ 10 Standard Time\n"
+"PO-Revision-Date: 2015-01-15 21:37+1100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 1.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: AutoComplete.py:32
+msgid "Show Completions"
+msgstr "Mostrar Terminaciones"
+
+#: AutoExpand.py:27
+msgid "E_xpand Word"
+msgstr "E_xpandir Palabra"
+
+#: Bindings.py:26
+msgid "_New File"
+msgstr "_Nuevo Archivo"
+
+#: Bindings.py:27
+msgid "_Open..."
+msgstr "Abrir Archivo..."
+
+#: Bindings.py:28
+msgid "Open _Module..."
+msgstr "Abrir _Módulo..."
+
+#: Bindings.py:29
+msgid "Class _Browser"
+msgstr "Examinador de Clases"
+
+#: Bindings.py:30
+msgid "_Path Browser"
+msgstr "Examinador de Ruta"
+
+#: Bindings.py:32
+msgid "_Save"
+msgstr "Guardar"
+
+#: Bindings.py:33
+msgid "Save _As..."
+msgstr "Guardar Como..."
+
+#: Bindings.py:34
+msgid "Save Cop_y As..."
+msgstr "Guardar una Copia..."
+
+#: Bindings.py:36
+msgid "Prin_t Window"
+msgstr "Imprimir"
+
+#: Bindings.py:38
+msgid "_Close"
+msgstr "Cerrar"
+
+#: Bindings.py:39
+msgid "E_xit"
+msgstr "Salir"
+
+#: Bindings.py:42
+msgid "_Undo"
+msgstr "Deshacer"
+
+#: Bindings.py:43
+msgid "_Redo"
+msgstr "Rehacer"
+
+#: Bindings.py:45
+msgid "Cu_t"
+msgstr "Cor_tar"
+
+#: Bindings.py:46
+msgid "_Copy"
+msgstr "_Copiar"
+
+#: Bindings.py:47
+msgid "_Paste"
+msgstr "_Pegar"
+
+#: Bindings.py:48
+msgid "Select _All"
+msgstr "Seleccionar Todo"
+
+#: Bindings.py:50
+msgid "_Find..."
+msgstr "Buscar"
+
+#: Bindings.py:51
+msgid "Find A_gain"
+msgstr "Buscar de Nuevo"
+
+#: Bindings.py:52
+msgid "Find _Selection"
+msgstr "Buscar _Selección"
+
+#: Bindings.py:53
+msgid "Find in Files..."
+msgstr "Buscar en los Archivos..."
+
+#: Bindings.py:54
+msgid "R_eplace..."
+msgstr "Sustituir"
+
+#: Bindings.py:55
+msgid "Go to _Line"
+msgstr "Ir a la _Línea"
+
+#: Bindings.py:58
+msgid "_Indent Region"
+msgstr "Sangría"
+
+#: Bindings.py:59
+#, fuzzy
+msgid "_Dedent Region"
+msgstr "Contra Sangría"
+
+#: Bindings.py:60
+msgid "Comment _Out Region"
+msgstr "Comentar Región"
+
+#: Bindings.py:61
+#, fuzzy
+msgid "U_ncomment Region"
+msgstr "Contra Comentar Región"
+
+#: Bindings.py:62
+msgid "Tabify Region"
+msgstr ""
+
+#: Bindings.py:63
+msgid "Untabify Region"
+msgstr ""
+
+#: Bindings.py:64 EditorWindow.py:1492
+msgid "Toggle Tabs"
+msgstr ""
+
+#: Bindings.py:65
+msgid "New Indent Width"
+msgstr "Nueva Sangría Ancho"
+
+#: Bindings.py:68
+#, fuzzy
+msgid "Python Shell"
+msgstr "Python Shell"
+
+#: Bindings.py:71
+msgid "_View Last Restart"
+msgstr "_Ver Último Reinicio"
+
+#: Bindings.py:72
+#, fuzzy
+msgid "_Restart Shell"
+msgstr "_Reanudar Shell"
+
+#: Bindings.py:75
+msgid "_Go to File/Line"
+msgstr "Ir a la Archivos/Línea"
+
+#: Bindings.py:76
+msgid "!_Debugger"
+msgstr "!_Depurador"
+
+#: Bindings.py:77
+msgid "_Stack Viewer"
+msgstr "Visor de Pila"
+
+#: Bindings.py:78
+msgid "!_Auto-open Stack Viewer"
+msgstr "!_Auto Espectador Pila Abierta"
+
+#: Bindings.py:81
+msgid "Configure _IDLE"
+msgstr "Configure _IDLE"
+
+#: Bindings.py:82
+msgid "Configure _Extensions"
+msgstr "Configurar _Extensiones"
+
+#: Bindings.py:86
+msgid "_About IDLE"
+msgstr "_Acerca de IDLE"
+
+#: Bindings.py:88
+msgid "_IDLE Help"
+msgstr "_IDLE Ayuda"
+
+#: Bindings.py:89
+#, fuzzy
+msgid "Python _Docs"
+msgstr "Python _Doc"
+
+#: Bindings.py:94
+msgid "Turtle Demo"
+msgstr "Demostración de la Tortuga"
+
+#: CallTips.py:23
+msgid "Show call tip"
+msgstr "Mostrar sugerencia de llamada"
+
+#: ClassBrowser.py:70
+msgid "Class Browser - "
+msgstr "Examinador de Clases - "
+
+#: CodeContext.py:28
+msgid "!Code Conte_xt"
+msgstr "!Conte_xto Código"
+
+#: Debugger.py:89
+msgid "Debug Control"
+msgstr "Control de Depuración"
+
+#: Debugger.py:90
+msgid "Debug"
+msgstr "Depurar"
+
+#: Debugger.py:98
+msgid "Go"
+msgstr "Ir"
+
+#: Debugger.py:100
+msgid "Step"
+msgstr "Paso"
+
+#: Debugger.py:102
+msgid "Over"
+msgstr "Encima"
+
+#: Debugger.py:104
+msgid "Out"
+msgstr "Fuera"
+
+#: Debugger.py:106
+msgid "Quit"
+msgstr "Salir"
+
+#: Debugger.py:120
+msgid "Stack"
+msgstr "Pila"
+
+#: Debugger.py:125
+msgid "Source"
+msgstr "Fuente"
+
+#: Debugger.py:131 Debugger.py:267
+#, fuzzy
+msgid "Locals"
+msgstr "Locales"
+
+#: Debugger.py:136 Debugger.py:279
+#, fuzzy
+msgid "Globals"
+msgstr "Globals"
+
+#: Debugger.py:370
+msgid "Go to source line"
+msgstr "Ir a la línea de la fuente"
+
+#: Debugger.py:372
+msgid "Show stack frame"
+msgstr "Mostrar marco de pila"
+
+#: EditorWindow.py:438
+msgid "_File"
+msgstr "Archivo"
+
+#: EditorWindow.py:439
+msgid "_Edit"
+msgstr "_Editar"
+
+#: EditorWindow.py:440
+msgid "F_ormat"
+msgstr "F_ormato"
+
+#: EditorWindow.py:441
+msgid "_Run"
+msgstr "Ejecutar"
+
+#: EditorWindow.py:442
+msgid "_Options"
+msgstr "_Opciones"
+
+#: EditorWindow.py:443
+msgid "_Windows"
+msgstr "Ventanas"
+
+#: EditorWindow.py:444
+msgid "_Help"
+msgstr "Ayuda"
+
+#: EditorWindow.py:464
+msgid "Recent Files"
+msgstr "Archivos Recientes"
+
+#: EditorWindow.py:510 SearchDialogBase.py:179 aboutDialog.py:46
+msgid "Close"
+msgstr "Cerrar"
+
+#: EditorWindow.py:545 macosxSupport.py:201
+msgid "About IDLE"
+msgstr "Acerca de IDLE"
+
+#: EditorWindow.py:548
+msgid "Settings"
+msgstr "Configuración"
+
+#: EditorWindow.py:564
+msgid "Document Start Failure"
+msgstr "Fracaso Inicio Documento"
+
+#: EditorWindow.py:664
+msgid "Module"
+msgstr "Módulo"
+
+#: EditorWindow.py:665
+msgid ""
+"Enter the name of a Python module\n"
+"to search on sys.path and open:"
+msgstr ""
+"Escriba el nombre de un módulo\n"
+"Python buscar en sys.path y abierto:"
+
+#: EditorWindow.py:676 EditorWindow.py:679 EditorWindow.py:683
+#: EditorWindow.py:689
+msgid "Import error"
+msgstr "Error de importación"
+
+#: EditorWindow.py:679
+msgid "Module not found."
+msgstr "Módulo no encontrado."
+
+#: EditorWindow.py:683
+msgid "Not a source-based module."
+msgstr "No es un módulo basado en la fuente."
+
+#: EditorWindow.py:690
+msgid "Loader does not support get_filename."
+msgstr "Cargador no soporta get_filename."
+
+#: EditorWindow.py:927
+msgid "IDLE Error"
+msgstr "IDLE Error"
+
+#: EditorWindow.py:928
+msgid ""
+"Unable to update Recent Files list:\n"
+"%s"
+msgstr ""
+"No se puede actualizar reciente lista de archivos:\n"
+"%s"
+
+#: EditorWindow.py:959 EditorWindow.py:981
+msgid "Untitled"
+msgstr "Sin título"
+
+#: EditorWindow.py:1493
+#, fuzzy
+msgid ""
+"Turn tabs %s?\n"
+"Indent width %s 8.\n"
+"(Note: Tabs are always 8 spaces.)"
+msgstr ""
+"Gire pestañas %s?\n"
+"Ancho guión %s 8.\n"
+"(Nota: aquí son siempre de 8 espacios.)"
+
+#: EditorWindow.py:1513
+#, fuzzy
+msgid "Indent Width"
+msgstr "Ancho Guión"
+
+#: EditorWindow.py:1514
+#, fuzzy
+msgid ""
+"New indent width (2-16)\n"
+"(Select 8 if using tabs.)"
+msgstr ""
+"Nueva ancho guión (2-16)\n"
+"(Seleccione 8 si se utiliza pestañas.)"
+
+#: EditorWindow.py:1573
+#, fuzzy
+msgid "Tab Width"
+msgstr "Tamaño de la Pestaña"
+
+#: EditorWindow.py:1574
+#, fuzzy
+msgid "Set number of spaces per tab. (2-16)"
+msgstr "Establecer el número de plazas por cada ficha. (2-16)"
+
+#: FileList.py:24
+msgid "File Error"
+msgstr "Error de Archivo"
+
+#: FileList.py:25
+msgid "%r is a directory."
+msgstr "%r es un directorio."
+
+#: FileList.py:92
+msgid "Name Conflict"
+msgstr "Nombre de Conflictos"
+
+#: FileList.py:93
+msgid "You now have multiple edit windows open for %r"
+msgstr "Hay varias ventanas de edición abiertas para %r"
+
+#: FormatParagraph.py:26
+msgid "Format Paragraph"
+msgstr "Formato de Párrafo"
+
+#: GrepDialog.py:25
+msgid "Find in Files Dialog"
+msgstr "Buscar en Archivos de Diálogo"
+
+#: GrepDialog.py:49
+msgid "In files:"
+msgstr "En los archivos:"
+
+#: GrepDialog.py:56
+msgid "Search subfolders"
+msgstr "Buscar en subcarpetas:"
+
+#: GrepDialog.py:62
+msgid "Search Files"
+msgstr "Buscar archivos"
+
+#: GrepDialog.py:86
+msgid "Searching %r in %s ..."
+msgstr "Buscando en %r %s ..."
+
+#: GrepDialog.py:101
+msgid ""
+"Results found: %s\n"
+"(Hint: right-click to open locations.)"
+msgstr ""
+"Resultados encontrados: %s\n"
+"(Sugerencia: haga clic para abrir lugares.)"
+
+#: GrepDialog.py:103
+msgid "No results."
+msgstr "No hay resultados."
+
+#: IOBinding.py:226
+msgid "Decoding Error"
+msgstr "Error al Decodificar"
+
+#: IOBinding.py:227
+msgid ""
+"File %s\n"
+"Failed to Decode"
+msgstr ""
+"%s del archivo\n"
+"Error al Decodificar"
+
+#: IOBinding.py:268
+msgid "Error loading the file"
+msgstr "Error al cargar el archivo"
+
+#: IOBinding.py:269
+msgid ""
+"The encoding '%s' is not known to this Python installation. The file may not "
+"display correctly"
+msgstr ""
+"La codificación '%s' no se conoce a esta instalación de Python. El archivo "
+"no se muestre correctamente"
+
+#: IOBinding.py:302
+msgid "Specify file encoding"
+msgstr "Especifique la codificación de archivos"
+
+#: IOBinding.py:303
+msgid ""
+"The file's encoding is invalid for Python 3.x.\n"
+"IDLE will convert it to UTF-8.\n"
+"What is the current encoding of the file?"
+msgstr ""
+"La codificación del archivo no es válido para Python 3.x.\n"
+"IDLE lo convertirá a UTF-8.\n"
+"Que es la actual codificación del archivo?"
+
+#: IOBinding.py:320
+msgid "Do you want to save %s before closing?"
+msgstr "¿Quieres guardar %s antes de cerrar?"
+
+#: IOBinding.py:321
+msgid "this untitled document"
+msgstr "este documento sin título"
+
+#: IOBinding.py:323
+msgid "Save On Close"
+msgstr "Ahorre en Cerrar"
+
+#: IOBinding.py:385 IOBinding.py:421
+msgid "I/O Error"
+msgstr "Error de E/S"
+
+#: IOBinding.py:422
+msgid ""
+"%s.\n"
+"Saving as UTF-8"
+msgstr ""
+"%s.\n"
+"Almacenamiento como UTF-8"
+
+#: IOBinding.py:435
+msgid "Print"
+msgstr "Imprimir"
+
+#: IOBinding.py:436
+msgid "Print to Default Printer"
+msgstr "Impresora predeterminada"
+
+#: IOBinding.py:471
+msgid "Printing failed (exit status 0x%x)\n"
+msgstr "Impresión falló (estado de salida 0x%x)\n"
+
+#: IOBinding.py:474
+msgid "Printing command: %s\n"
+msgstr "Comando de impresión: %s\n"
+
+#: IOBinding.py:475 IOBinding.py:478
+msgid "Print status"
+msgstr "Imprimir estado"
+
+#: IOBinding.py:477
+msgid "Printing is not enabled for this platform: %s"
+msgstr "La impresión no está habilitado para esta plataforma: %s"
+
+#: IOBinding.py:487
+msgid "Python files"
+msgstr "Archivos de Python"
+
+#: IOBinding.py:488
+msgid "Text files"
+msgstr "Archivos de texto"
+
+#: IOBinding.py:489
+msgid "All files"
+msgstr "Todos los archivos"
+
+#: OutputWindow.py:92
+msgid "No special line"
+msgstr "No hay línea especial"
+
+#: OutputWindow.py:93
+msgid ""
+"The line you point at doesn't look like a valid file name followed by a line "
+"number."
+msgstr ""
+"La línea que apunta a no se ve como un nombre de archivo válido seguido de "
+"un número de línea."
+
+#: PathBrowser.py:21
+msgid "Path Browser"
+msgstr "Examinador de Ruta"
+
+#: PyShell.py:25
+msgid ""
+"** IDLE can't import Tkinter.\n"
+"Your Python may not be configured for Tk. **"
+msgstr ""
+"** IDLE no puede importar Tkinter.\n"
+"La Python no puede ser configurado para Tk. **"
+
+#: PyShell.py:145
+msgid "Cut"
+msgstr "Cortar"
+
+#: PyShell.py:146
+msgid "Copy"
+msgstr "Copiar"
+
+#: PyShell.py:147
+msgid "Paste"
+msgstr "Pegar"
+
+#: PyShell.py:149
+msgid "Set Breakpoint"
+msgstr "Definir Punto de Quiebre"
+
+#: PyShell.py:150
+msgid "Clear Breakpoint"
+msgstr "Limpiar Punto de Quiebre"
+
+#: PyShell.py:779
+msgid "Exit"
+msgstr "Salir"
+
+#: PyShell.py:780
+msgid "Do you want to exit IDLE?"
+msgstr "¿Desea salir IDLE?"
+
+#: PyShell.py:813
+msgid "Port Binding Error"
+msgstr "Puerto Binding Error"
+
+#: PyShell.py:814
+msgid ""
+"IDLE can't bind to a TCP/IP port, which is necessary to communicate with its "
+"Python execution server.  This might be because no networking is installed "
+"on this computer.  Run IDLE with the -n command line switch to start without "
+"a subprocess and refer to Help/IDLE Help 'Running without a subprocess' for "
+"further details."
+msgstr ""
+"IDLE no se puede obligar a un puerto TCP / IP, que es necesaria para "
+"comunicarse con su servidor de ejecución de Python. Esto podría deberse a "
+"que hay redes está instalado en este equipo. Marcha en vacío con el "
+"modificador de línea de comandos -n para empezar sin un subproceso y "
+"consulte Ayuda / Ayuda IDLE 'Correr sin un subproceso' para más detalles."
+
+#: PyShell.py:824
+msgid "Subprocess Startup Error"
+msgstr "Subproceso Error en el inicio"
+
+#: PyShell.py:825
+msgid ""
+"IDLE's subprocess didn't make connection.  Either IDLE can't start a "
+"subprocess or personal firewall software is blocking the connection."
+msgstr ""
+"Subproceso de IDLE no hizo conexión. De cualquier IDLE no se puede iniciar "
+"un subproceso o software de firewall personal está bloqueando la conexión."
+
+#: PyShell.py:832
+msgid "Already executing"
+msgstr "Ya ejecución"
+
+#: PyShell.py:833
+msgid ""
+"The Python Shell window is already executing a command; please wait until it "
+"is finished."
+msgstr ""
+"La ventana de Python Shell ya está ejecutando un comando; por favor espere "
+"hasta que esté terminado."
+
+#: PyShell.py:940
+msgid "Can't Enable Debugger"
+msgstr "No se puede habilitar el depurador"
+
+#: PyShell.py:941
+msgid "Debugger can only be enabled when not running a program."
+msgstr ""
+"Depurador sólo se puede activar cuando no se está ejecutando un programa."
+
+#: PyShell.py:999
+msgid "Kill?"
+msgstr "Matar?"
+
+#: PyShell.py:1000
+msgid "Do you want to terminate the currently running program?"
+msgstr "¿Quieres terminar el programa en curso?"
+
+#: PyShell.py:1046
+msgid ""
+"==== No Subprocess ====\n"
+"\n"
+"WARNING: Running IDLE without a Subprocess is deprecated\n"
+"and will be removed in a later version. See Help/IDLE Help\n"
+"for details.\n"
+"\n"
+msgstr ""
+"==== No Subproceso ====\n"
+"\n"
+"Advertencia: marcha en vacío sin un subproceso está en desuso\n"
+"y se quitará en una versión posterior. Ver Ayuda/IDLE Ayuda por detalles\n"
+"\n"
+
+#: PyShell.py:1052
+msgid ""
+"Python %s on %s\n"
+"%s\n"
+"%s"
+msgstr ""
+"Python %s en %s\n"
+"%s\n"
+"%s"
+
+#: PyShell.py:1246
+msgid "No stack trace"
+msgstr "No traza de la pila"
+
+#: PyShell.py:1247
+msgid ""
+"There is no stack trace yet.\n"
+"(sys.last_traceback is not defined)"
+msgstr ""
+"No hay traza de la pila todavía.\n"
+"(sys,kast_traceback no está definido)"
+
+#: PyShell.py:1406
+#, fuzzy
+msgid ""
+"\n"
+"USAGE: idle  [-deins] [-t title] [file]*\n"
+"       idle  [-dns] [-t title] (-c cmd | -r file) [arg]*\n"
+"       idle  [-dns] [-t title] - [arg]*\n"
+"\n"
+"  -h         print this help message and exit\n"
+"  -n         run IDLE without a subprocess (DEPRECATED,\n"
+"             see Help/IDLE Help for details)\n"
+"\n"
+"The following options will override the IDLE 'settings' configuration:\n"
+"\n"
+"  -e         open an edit window\n"
+"  -i         open a shell window\n"
+"\n"
+"The following options imply -i and will open a shell:\n"
+"\n"
+"  -c cmd     run the command in a shell, or\n"
+"  -r file    run script from file\n"
+"\n"
+"  -d         enable the debugger\n"
+"  -s         run $IDLESTARTUP or $PYTHONSTARTUP before anything else\n"
+"  -t title   set title of shell window\n"
+"\n"
+"A default edit window will be bypassed when -c, -r, or - are used.\n"
+"\n"
+"[arg]* are passed to the command (-c) or script (-r) in sys.argv[1:].\n"
+"\n"
+"Examples:\n"
+"\n"
+"idle\n"
+"        Open an edit window or shell depending on IDLE's configuration.\n"
+"\n"
+"idle foo.py foobar.py\n"
+"        Edit the files, also open a shell if configured to start with "
+"shell.\n"
+"\n"
+"idle -est \"Baz\" foo.py\n"
+"        Run $IDLESTARTUP or $PYTHONSTARTUP, edit foo.py, and open a shell\n"
+"        window with the title \"Baz\".\n"
+"\n"
+"idle -c \"import sys; print(sys.argv)\" \"foo\"\n"
+"        Open a shell window and run the command, passing \"-c\" in sys."
+"argv[0]\n"
+"        and \"foo\" in sys.argv[1].\n"
+"\n"
+"idle -d -s -r foo.py \"Hello World\"\n"
+"        Open a shell window, run a startup script, enable the debugger, and\n"
+"        run foo.py, passing \"foo.py\" in sys.argv[0] and \"Hello World\" "
+"in\n"
+"        sys.argv[1].\n"
+"\n"
+"echo \"import sys; print(sys.argv)\" | idle - \"foobar\"\n"
+"        Open a shell window, run the script piped in, passing '' in sys."
+"argv[0]\n"
+"        and \"foobar\" in sys.argv[1].\n"
+msgstr ""
+"\n"
+"USAGE: idle  [-deins] [-t title] [file]*\n"
+"       idle  [-dns] [-t title] (-c cmd | -r file) [arg]*\n"
+"       idle  [-dns] [-t title] - [arg]*\n"
+"\n"
+"  -h         print this help message and exit\n"
+"  -n         run IDLE without a subprocess (DEPRECATED,\n"
+"             see Help/IDLE Help for details)\n"
+"\n"
+"The following options will override the IDLE 'settings' configuration:\n"
+"\n"
+"  -e         open an edit window\n"
+"  -i         open a shell window\n"
+"\n"
+"The following options imply -i and will open a shell:\n"
+"\n"
+"  -c cmd     run the command in a shell, or\n"
+"  -r file    run script from file\n"
+"\n"
+"  -d         enable the debugger\n"
+"  -s         run $IDLESTARTUP or $PYTHONSTARTUP before anything else\n"
+"  -t title   set title of shell window\n"
+"\n"
+"A default edit window will be bypassed when -c, -r, or - are used.\n"
+"\n"
+"[arg]* are passed to the command (-c) or script (-r) in sys.argv[1:].\n"
+"\n"
+"Examples:\n"
+"\n"
+"idle\n"
+"        Open an edit window or shell depending on IDLE's configuration.\n"
+"\n"
+"idle foo.py foobar.py\n"
+"        Edit the files, also open a shell if configured to start with "
+"shell.\n"
+"\n"
+"idle -est \"Baz\" foo.py\n"
+"        Run $IDLESTARTUP or $PYTHONSTARTUP, edit foo.py, and open a shell\n"
+"        window with the title \"Baz\".\n"
+"\n"
+"idle -c \"import sys; print(sys.argv)\" \"foo\"\n"
+"        Open a shell window and run the command, passing \"-c\" in sys."
+"argv[0]\n"
+"        and \"foo\" in sys.argv[1].\n"
+"\n"
+"idle -d -s -r foo.py \"Hello World\"\n"
+"        Open a shell window, run a startup script, enable the debugger, and\n"
+"        run foo.py, passing \"foo.py\" in sys.argv[0] and \"Hello World\" "
+"in\n"
+"        sys.argv[1].\n"
+"\n"
+"echo \"import sys; print(sys.argv)\" | idle - \"foobar\"\n"
+"        Open a shell window, run the script piped in, passing '' in sys."
+"argv[0]\n"
+"        and \"foobar\" in sys.argv[1].\n"
+
+#: ReplaceDialog.py:20
+msgid "Replace Dialog"
+msgstr "Reemplace diálogo"
+
+#: ReplaceDialog.py:21 ReplaceDialog.py:217
+msgid "Replace"
+msgstr "Sustituir"
+
+#: ReplaceDialog.py:73
+msgid "Invalid regular expression"
+msgstr "Expresión regular incorrecta."
+
+#: RstripExtension.py:8
+msgid "Strip trailing whitespace"
+msgstr "Gaza espacios en blanco finales"
+
+#: ScriptBinding.py:47
+msgid "Check Module"
+msgstr "Compruebe Módulo"
+
+#: ScriptBinding.py:48
+msgid "Run Module"
+msgstr "Módulo Ejecutar"
+
+#: ScriptBinding.py:77
+msgid "Tabnanny Tokenizing Error"
+msgstr "Tabnanny Tokenización Error"
+
+#: ScriptBinding.py:78
+msgid "Token Error: %s"
+msgstr "Error simbólico: %s"
+
+#: ScriptBinding.py:83
+#, fuzzy
+msgid "Tab/space error"
+msgstr "Error de separación"
+
+#: ScriptBinding.py:198
+#, fuzzy
+msgid ""
+"Source Must Be Saved\n"
+"     OK to Save?"
+msgstr ""
+"Fuente debe ser\n"
+"    Bien guardado para guardar?"
+
+#: ScriptBinding.py:199
+msgid "Save Before Run or Check"
+msgstr "Guardar Antes Ejecutar o Inspección"
+
+#: SearchDialog.py:28
+msgid "Find Next"
+msgstr "Buscar siguiente"
+
+#: SearchDialog.py:85
+msgid "Search"
+msgstr "Buscar"
+
+#: SearchDialogBase.py:133
+msgid "Options"
+msgstr "Opciones"
+
+#: SearchDialogBase.py:135
+msgid "Regular expression"
+msgstr "Expresión regular"
+
+#: SearchDialogBase.py:136
+msgid "Match case"
+msgstr "Coincidir mayúsculas y minúsculas"
+
+#: SearchDialogBase.py:137
+msgid "Whole word"
+msgstr "Toda la palabra"
+
+#: SearchDialogBase.py:139
+msgid "Wrap around"
+msgstr "Envuelva alrededor"
+
+#: SearchDialogBase.py:153
+msgid "Direction"
+msgstr "Dirección"
+
+#: SearchDialogBase.py:155
+msgid "Down"
+msgstr "Abajo"
+
+#: SearchDialogBase.py:155
+msgid "Up"
+msgstr "Arriba"
+
+#: UndoDelegator.py:355
+msgid "Undo"
+msgstr "Deshacer"
+
+#: UndoDelegator.py:357
+msgid "Redo"
+msgstr "Rehacer"
+
+#: UndoDelegator.py:359
+msgid "Dump"
+msgstr "Volcado de datos"
+
+#: ZoomHeight.py:13
+#, fuzzy
+msgid "_Zoom Height"
+msgstr "Estire a la altura"
+
+#: aboutDialog.py:52
+msgid "IDLE"
+msgstr "IDLE"
+
+#: aboutDialog.py:59
+msgid "Python's Integrated DeveLopment Environment"
+msgstr "Entorno de DesarroLlo Integrado de Python"
+
+#: aboutDialog.py:74
+msgid "Python version:  "
+msgstr "Versión de Python:"
+
+#: aboutDialog.py:78
+msgid "Tk version:  "
+msgstr "Versión Tk:"
+
+#: aboutDialog.py:83
+msgid "License"
+msgstr "Licencia"
+
+#: aboutDialog.py:87
+msgid "Copyright"
+msgstr "Derechos de autor"
+
+#: aboutDialog.py:91 aboutDialog.py:111
+msgid "Credits"
+msgstr "Créditos"
+
+#: aboutDialog.py:98
+msgid "IDLE version:   "
+msgstr "Versión IDLE:"
+
+#: aboutDialog.py:103
+msgid "README"
+msgstr "README"
+
+#: aboutDialog.py:107
+msgid "NEWS"
+msgstr "NOTICIAS"
+
+#: aboutDialog.py:117
+msgid "About - License"
+msgstr "Acerca de - Licencia"
+
+#: aboutDialog.py:120
+msgid "About - Copyright"
+msgstr "Acerca de - Derechos de autor"
+
+#: aboutDialog.py:123
+msgid "About - Python Credits"
+msgstr "Acerca de - Python Créditos"
+
+#: aboutDialog.py:126
+msgid "About - Credits"
+msgstr "Acerca de - Créditos"
+
+#: aboutDialog.py:129
+msgid "About - Readme"
+msgstr "Acerca de - Readme"
+
+#: aboutDialog.py:132
+msgid "About - NEWS"
+msgstr "Acerca de - NOTICIAS"
+
+#: configHelpSourceEdit.py:55
+msgid "Menu Item:"
+msgstr "Elemento del Menú:"
+
+#: configHelpSourceEdit.py:60
+msgid "Help File Path: Enter URL or browse for file"
+msgstr "Ayuda Ruta del archivo: Introduzca el URL o busque el archivo"
+
+#: configHelpSourceEdit.py:68
+msgid "Browse"
+msgstr "Explorar"
+
+#: configHelpSourceEdit.py:73 keybindingDialog.py:59
+msgid "OK"
+msgstr "Aceptar"
+
+#: configHelpSourceEdit.py:76 keybindingDialog.py:62
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: configHelpSourceEdit.py:82
+msgid "HTML Files"
+msgstr "Archivos HTML"
+
+#: configHelpSourceEdit.py:83
+msgid "PDF Files"
+msgstr "Archivos PDF"
+
+#: configHelpSourceEdit.py:84
+msgid "Windows Help Files"
+msgstr "Ayuda de Windows Archivos"
+
+#: configHelpSourceEdit.py:85
+msgid "Text Files"
+msgstr "Archivos de Texto"
+
+#: configHelpSourceEdit.py:86
+msgid "All Files"
+msgstr "Todos los Archivos"
+
+#: configHelpSourceEdit.py:109 configHelpSourceEdit.py:115
+msgid "Menu Item Error"
+msgstr "Error de Elemento de Menú"
+
+#: configHelpSourceEdit.py:110
+msgid "No menu item specified."
+msgstr "No elemento de menú especificado."
+
+#: configHelpSourceEdit.py:116
+msgid ""
+"Menu item too long\n"
+"Limit 30 characters."
+msgstr ""
+"Elemento de menú demasiado largo\n"
+"El límite es de 30 caracteres."
+
+#: configHelpSourceEdit.py:129 configHelpSourceEdit.py:140
+msgid "File Path Error"
+msgstr "Ruta Archivo Error"
+
+#: configHelpSourceEdit.py:130
+msgid "No help file path specified."
+msgstr "Ningún ruta archivo de ayuda especifica."
+
+#: configHelpSourceEdit.py:141
+msgid "Help file path does not exist."
+msgstr "Ruta del archivo de ayuda no existe."
+
+#: configSectionNameDialog.py:71 configSectionNameDialog.py:74
+#: configSectionNameDialog.py:79
+msgid "Name Error"
+msgstr "Nombre Error"
+
+#: configSectionNameDialog.py:72
+msgid "No name specified."
+msgstr "No se especifica un nombre."
+
+#: configSectionNameDialog.py:75
+msgid "Name too long. It should be no more than 30 characters."
+msgstr "Nombre demasiado largo. El límite es de 30 caracteres."
+
+#: configSectionNameDialog.py:80
+msgid "This name is already in use."
+msgstr "Este nombre ya está en uso."
+
+#: keybindingDialog.py:76
+msgid "Advanced Key Binding Entry >>"
+msgstr "Advanced Key Entrada Encuadernación >>"
+
+#: keybindingDialog.py:79
+msgid "New keys for  %s :"
+msgstr "Nuevas claves para %s:"
+
+#: keybindingDialog.py:96
+msgid ""
+"Select the desired modifier keys\n"
+"above, and the final key from the\n"
+"list on the right.\n"
+"\n"
+"Use upper case Symbols when using\n"
+"the Shift modifier.  (Letters will be\n"
+"converted automatically.)"
+msgstr ""
+"Seleccione las teclas modificadoras deseados\n"
+"anteriores, y la clave final de la\n"
+"lista de la derecha.\n"
+"\n"
+"Utilice Símbolos mayúsculas cuando se utiliza\n"
+" el modificador Shift. (Las cartas\n"
+" se convierten automáticamente.)"
+
+#: keybindingDialog.py:112
+#, fuzzy
+msgid "Clear Keys"
+msgstr "Limpiar Clave"
+
+#: keybindingDialog.py:115
+msgid ""
+"Enter new binding(s) for  %s :\n"
+"(These bindings will not be checked for validity!)"
+msgstr ""
+"Introduzca nuevo enlace para %s:\n"
+"(Estos enlaces no se comprobará la validez!)"
+
+#: keybindingDialog.py:122
+msgid ""
+"Key bindings are specified using Tkinter keysyms as\n"
+"in these samples: <Control-f>, <Shift-F2>, <F12>,\n"
+"<Control-space>, <Meta-less>, <Control-Alt-Shift-X>.\n"
+"Upper case is used when the Shift modifier is present!\n"
+"\n"
+"'Emacs style' multi-keystroke bindings are specified as\n"
+"follows: <Control-x><Control-y>, where the first key\n"
+"is the 'do-nothing' keybinding.\n"
+"\n"
+"Multiple separate bindings for one action should be\n"
+"separated by a space, eg., <Alt-v> <Meta-v>."
+msgstr ""
+
+#: keybindingDialog.py:241
+msgid "Key Sequence Error"
+msgstr "Secuencia de teclas Error"
+
+#: keybindingDialog.py:244
+msgid "No keys specified."
+msgstr "No hay claves especificadas."
+
+#: keybindingDialog.py:247
+msgid "Missing the final Key"
+msgstr "Falta la clave final"
+
+#: keybindingDialog.py:251
+msgid "No modifier key(s) specified."
+msgstr "No clave(s) modificador especificado."
+
+#: keybindingDialog.py:255
+msgid "The shift modifier by itself may not be used with this key symbol."
+msgstr ""
+"El modificador de cambio por sí mismo no se puede utilizar con este símbolo "
+"de llave."
+
+#: keybindingDialog.py:259
+msgid "This key combination is already in use."
+msgstr "Esta combinación de teclas ya está en uso."
+
+#: macosxSupport.py:83
+msgid ""
+"WARNING: The version of Tcl/Tk ({0}) in use may be unstable.\n"
+"Visit http://www.python.org/download/mac/tcltk/ for current information."
+msgstr ""
+"ADVERTENCIA: La versión de Tcl / Tk ({0}) en uso puede ser inestable.\n"
+"Visita http://www.python.org/download/mac/tcltk/ para obtener información "
+"actualizada.."
+
+#: macosxSupport.py:182
+msgid "Help"
+msgstr "Ayuda"
+
+#: macosxSupport.py:208
+msgid "_Preferences..."
+msgstr "_Preferencias..."
+
+#: run.py:173
+msgid ""
+"IDLE's subprocess can't connect to %s:%d.  This may be due to your personal "
+"firewall configuration.  It is safe to allow this internal connection "
+"because no data is visible on external ports."
+msgstr ""
+"Subproceso de IDLE no puede conectarse a %s:%d. Esto puede ser debido a la "
+"configuración del cortafuegos personal. Es seguro permitir esta conexión "
+"interna porque no hay datos visibles en los puertos externos."
+
+#: run.py:177 run.py:179
+msgid "IDLE Subprocess Error"
+msgstr "IDLE Subproceso de error"
+
+#: run.py:180
+msgid "Socket Error: %s"
+msgstr ""
+
+#: textView.py:77
+msgid "File Load Error"
+msgstr "Error al Cargar el Archivo"
+
+#: textView.py:78
+msgid "Unable to load file %r ."
+msgstr "No se puede cargar el archivo %r ."
